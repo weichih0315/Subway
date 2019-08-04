@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a2756c78eea937f4093d2b3d93da5f78
+timeCreated: 1525765034
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FREEZER
+  fontNames:
+  - FREEZER
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
